@@ -1,0 +1,3 @@
+- 👋 Ola, Eu sou Fabio
+- 👀 Estou interessado em  programação
+- 🌱 Atualmente estou aprendendo linguagens de programação
